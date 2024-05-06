@@ -1,0 +1,69 @@
+{
+  "name": "securecloudstorage",
+  "version": "1.1.2",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "ai-driven-recommendations": "^1.1.2",
+    "blockchaingamingplatform": "^1.1.2",
+    "blockchainidentity": "^1.1.2",
+    "blockchainvoting": "^1.1.2",
+    "codeqanalyzer": "^1.1.2",
+    "cryptocurrencypredictor": "^1.1.2",
+    "cryptowalletmanager": "^1.1.2",
+    "cybersecuritytrainingkit": "^1.1.2",
+    "decentralizedfs": "^1.1.2",
+    "decentralizedsocialnet": "^1.1.2",
+    "defiplatform": "^1.1.2",
+    "e-learninghub": "^1.1.2",
+    "healthdatamanagement": "^1.1.2",
+    "languagetrans": "^1.1.2",
+    "opendatainitiative": "^1.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "securefilevault": "^1.1.2",
+    "securemessagingapp": "^1.1.2",
+    "shautomation": "^1.1.2",
+    "smartcontractexchange": "^1.1.4",
+    "virtualrealityexperience": "^1.1.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/App.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itslana0x/SecureCloudStorage"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itslana0x/SecureCloudStorage/issues"
+  },
+  "homepage": "https://github.com/itslana0x/SecureCloudStorage#readme"
+}
